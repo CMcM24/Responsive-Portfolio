@@ -172,6 +172,8 @@ img {
 
 /* ----------------------------------------------------------- */
 
+/* had a lot of trouble with these css media queries. could not seem to get them to display properly. Defintely had to with the amount of properties/classes I have, but I did my best. */
+
 @media screen and (max-width: 980px){}
 
 @media screen and (max-width: 768px){}
