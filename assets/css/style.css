@@ -180,11 +180,12 @@ img {
     .name-home{
         text-align: center;
         position: static;
-        width: 100%;
+        width: 640px;
         left: 0%;
+        top: 0%;
     }
     body {
-        flex-shrink: inherit;
+        width: 640px;
     }
     nav {
         position: static;
@@ -196,10 +197,25 @@ img {
     .titlebar{
         position: static;
     }
-    .foot {
-        position: static;
-    }
+
     .content {
         max-width: 100%;
+    }
+
+    .portfoliomarg {
+        height: 980px;
+    }
+    .input1{
+        width: 600px;
+    }
+    .input2{
+        width: 600px;
+    }
+    .text2{
+        width: 600px;
+    }
+    .cloud-img{
+        width: 600px;
+        height: 640px;
     }
 }
